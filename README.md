@@ -1,4 +1,4 @@
-# leetcode_problem_solving
+# leetcode problems Solution
 
 solved problem:
 - 1
@@ -10,6 +10,8 @@ solved problem:
 - 14
 - 26
 - 41
+- 65
+- 66
 - 205
 - 392
 - 724
