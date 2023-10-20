@@ -1,0 +1,18 @@
+Encapsulation
+
+Encapsulation is use to keep variable private in class
+to access this variable in other class create setter getter methods.
+
+Example:
+
+public class PrivateNumber{
+	private int number;
+	
+	public int getNumber(){
+		System.out.println(number);
+	}
+	
+	public void setNumber(int num){
+		number = num;
+	}
+}
