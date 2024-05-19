@@ -1,1 +1,4 @@
-len(nums3)
+
+#     if nums[i] == nums[i-1]:
+#         print(True)
+#         break
