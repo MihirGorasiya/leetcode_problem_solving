@@ -1,4 +1,4 @@
-import week2.linked_list as l
+import data_structures.linked_list as l
 
 head = [1, 2, 3,4]
 ll = l.LinkedList()

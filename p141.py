@@ -1,4 +1,4 @@
-import linked_list as l
+import data_structures.linked_list as l
 
 ll = l.LinkedList()
 
