@@ -2,18 +2,8 @@
 
 solved problem:
 
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 9
-- 11
-- 19
-- 14
-- 26
+1&emsp;2&emsp;3&emsp;4&emsp;5&emsp;6<br>
+7&emsp;9&emsp;11&emsp;19&emsp;14&emsp;26
 - 41
 - 65
 - 66
@@ -21,7 +11,7 @@ solved problem:
 - 392
 - 724
 - 876
-- 1108  
+- 1108
 - 1323
 - 1465
 - 1480
